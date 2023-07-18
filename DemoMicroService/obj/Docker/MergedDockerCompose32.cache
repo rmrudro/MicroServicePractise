@@ -1,0 +1,67 @@
+name: dockercompose16444095067853812663
+services:
+  customerdb:
+    container_name: customer-db
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: GsGc0709__
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    networks:
+      backend: null
+    ports:
+    - mode: ingress
+      target: 1433
+      published: "18001"
+      protocol: tcp
+  customerwebapi:
+    build:
+      context: A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService
+      dockerfile: CustomerWebApi/Dockerfile
+    container_name: customer-api
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      DB_HOST: customer-db
+      DB_NAME: customer
+      DB_SA_PASSWORD: GsGc0709__
+    image: customerwebapi
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      protocol: tcp
+  productdb:
+    container_name: product-db
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: GsGc0709__
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    networks:
+      backend: null
+    ports:
+    - mode: ingress
+      target: 3306
+      published: "18003"
+      protocol: tcp
+  productwebapi:
+    build:
+      context: A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService
+      dockerfile: ProductWebApi/Dockerfile
+    container_name: product-api
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      DB_HOST: productdb
+      DB_NAME: dms_product
+      DB_ROOT_PASSWORD: GsGc0709__
+    image: productwebapi
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      protocol: tcp
+networks:
+  backend:
+    name: dockercompose16444095067853812663_backend
+  default:
+    name: dockercompose16444095067853812663_default

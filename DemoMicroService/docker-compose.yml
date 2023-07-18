@@ -1,0 +1,65 @@
+version: '3.4'
+
+networks:
+  backend:
+
+
+services:
+  customerdb:
+    container_name: customer-db
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_SA_PASSWORD=GsGc0709__
+    networks:
+      - backend
+    ports:
+      - 18001:1433
+  customerwebapi:
+    container_name: customer-api
+    image: ${DOCKER_REGISTRY-}customerwebapi
+    build:
+      context: .
+      dockerfile: CustomerWebApi/Dockerfile
+    environment:
+      #- ASPNETCORE_ENVIRONMENT=Development
+      #- ASPNETCORE_URLS=https://+:443;http://+:80
+      - DB_HOST=customer-db
+      - DB_NAME=customer
+      - DB_SA_PASSWORD=GsGc0709__
+    
+    #volumes:
+    #  - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
+    #  - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
+    networks:
+      - backend
+
+  productdb:
+    container_name: product-db
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_SA_PASSWORD=GsGc0709__
+    ports:
+     - 18003:1433
+    networks:
+      - backend
+  
+  productwebapi:
+    container_name: product-api
+    image: ${DOCKER_REGISTRY-}productwebapi
+    build:
+      context: .
+      dockerfile: ProductWebApi/Dockerfile
+    
+    environment:
+      - DB_HOST=productdb
+      - DB_NAME=dms_product
+      - DB_ROOT_PASSWORD=GsGc0709__
+    #ports:
+    #  - "81:81"
+    #  - "444:444"
+
+    networks:
+      - backend
+    

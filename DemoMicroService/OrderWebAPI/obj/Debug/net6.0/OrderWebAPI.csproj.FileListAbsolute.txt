@@ -1,0 +1,191 @@
+C:\Programing\C#Practise\OrderWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Programing\C#Practise\OrderWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Programing\C#Practise\OrderWebAPI\bin\Debug\net6.0\OrderWebAPI.exe
+C:\Programing\C#Practise\OrderWebAPI\bin\Debug\net6.0\OrderWebAPI.deps.json
+C:\Programing\C#Practise\OrderWebAPI\bin\Debug\net6.0\OrderWebAPI.runtimeconfig.json
+C:\Programing\C#Practise\OrderWebAPI\bin\Debug\net6.0\OrderWebAPI.dll
+C:\Programing\C#Practise\OrderWebAPI\bin\Debug\net6.0\OrderWebAPI.pdb
+C:\Programing\C#Practise\OrderWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Programing\C#Practise\OrderWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Programing\C#Practise\OrderWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Programing\C#Practise\OrderWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Programing\C#Practise\OrderWebAPI\obj\Debug\net6.0\OrderWebAPI.csproj.AssemblyReference.cache
+C:\Programing\C#Practise\OrderWebAPI\obj\Debug\net6.0\OrderWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\C#Practise\OrderWebAPI\obj\Debug\net6.0\OrderWebAPI.AssemblyInfoInputs.cache
+C:\Programing\C#Practise\OrderWebAPI\obj\Debug\net6.0\OrderWebAPI.AssemblyInfo.cs
+C:\Programing\C#Practise\OrderWebAPI\obj\Debug\net6.0\OrderWebAPI.csproj.CoreCompileInputs.cache
+C:\Programing\C#Practise\OrderWebAPI\obj\Debug\net6.0\OrderWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Programing\C#Practise\OrderWebAPI\obj\Debug\net6.0\OrderWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Programing\C#Practise\OrderWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Programing\C#Practise\OrderWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Programing\C#Practise\OrderWebAPI\obj\Debug\net6.0\scopedcss\bundle\OrderWebAPI.styles.css
+C:\Programing\C#Practise\OrderWebAPI\obj\Debug\net6.0\OrderWebAPI.csproj.CopyComplete
+C:\Programing\C#Practise\OrderWebAPI\obj\Debug\net6.0\OrderWebAPI.dll
+C:\Programing\C#Practise\OrderWebAPI\obj\Debug\net6.0\refint\OrderWebAPI.dll
+C:\Programing\C#Practise\OrderWebAPI\obj\Debug\net6.0\OrderWebAPI.pdb
+C:\Programing\C#Practise\OrderWebAPI\obj\Debug\net6.0\OrderWebAPI.genruntimeconfig.cache
+C:\Programing\C#Practise\OrderWebAPI\obj\Debug\net6.0\ref\OrderWebAPI.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\appsettings.Development.json
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\appsettings.json
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\OrderWebAPI.exe
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\OrderWebAPI.deps.json
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\OrderWebAPI.runtimeconfig.json
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\OrderWebAPI.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\OrderWebAPI.pdb
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\Azure.Core.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\Azure.Identity.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\Humanizer.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\System.CodeDom.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\System.Memory.Data.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\System.Text.Json.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\obj\Debug\net6.0\OrderWebAPI.csproj.AssemblyReference.cache
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\obj\Debug\net6.0\OrderWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\obj\Debug\net6.0\OrderWebAPI.AssemblyInfoInputs.cache
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\obj\Debug\net6.0\OrderWebAPI.AssemblyInfo.cs
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\obj\Debug\net6.0\OrderWebAPI.csproj.CoreCompileInputs.cache
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\obj\Debug\net6.0\OrderWebAPI.MvcApplicationPartsAssemblyInfo.cs
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\obj\Debug\net6.0\OrderWebAPI.MvcApplicationPartsAssemblyInfo.cache
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\obj\Debug\net6.0\scopedcss\bundle\OrderWebAPI.styles.css
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\obj\Debug\net6.0\OrderWebAPI.csproj.CopyComplete
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\obj\Debug\net6.0\OrderWebAPI.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\obj\Debug\net6.0\refint\OrderWebAPI.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\obj\Debug\net6.0\OrderWebAPI.pdb
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\obj\Debug\net6.0\OrderWebAPI.genruntimeconfig.cache
+A:\C# Code Practice\MicroServicePractice\C#Practise\OrderWebAPI\obj\Debug\net6.0\ref\OrderWebAPI.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\appsettings.Development.json
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\appsettings.json
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\OrderWebAPI.exe
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\OrderWebAPI.deps.json
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\OrderWebAPI.runtimeconfig.json
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\OrderWebAPI.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\OrderWebAPI.pdb
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\Azure.Core.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\Azure.Identity.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\Humanizer.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\System.CodeDom.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\System.Memory.Data.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\System.Text.Json.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\obj\Debug\net6.0\OrderWebAPI.csproj.AssemblyReference.cache
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\obj\Debug\net6.0\OrderWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\obj\Debug\net6.0\OrderWebAPI.AssemblyInfoInputs.cache
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\obj\Debug\net6.0\OrderWebAPI.AssemblyInfo.cs
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\obj\Debug\net6.0\OrderWebAPI.csproj.CoreCompileInputs.cache
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\obj\Debug\net6.0\OrderWebAPI.MvcApplicationPartsAssemblyInfo.cs
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\obj\Debug\net6.0\OrderWebAPI.MvcApplicationPartsAssemblyInfo.cache
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\obj\Debug\net6.0\scopedcss\bundle\OrderWebAPI.styles.css
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\obj\Debug\net6.0\OrderWebAPI.csproj.CopyComplete
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\obj\Debug\net6.0\OrderWebAPI.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\obj\Debug\net6.0\refint\OrderWebAPI.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\obj\Debug\net6.0\OrderWebAPI.pdb
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\obj\Debug\net6.0\OrderWebAPI.genruntimeconfig.cache
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\OrderWebAPI\obj\Debug\net6.0\ref\OrderWebAPI.dll

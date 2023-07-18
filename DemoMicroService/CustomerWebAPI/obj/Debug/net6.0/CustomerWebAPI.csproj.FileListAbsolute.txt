@@ -1,0 +1,164 @@
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\CustomerWebAPI.exe
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\CustomerWebAPI.deps.json
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\CustomerWebAPI.runtimeconfig.json
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\CustomerWebAPI.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\CustomerWebAPI.pdb
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\obj\Debug\net6.0\CustomerWebAPI.csproj.AssemblyReference.cache
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\obj\Debug\net6.0\CustomerWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\obj\Debug\net6.0\CustomerWebAPI.AssemblyInfoInputs.cache
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\obj\Debug\net6.0\CustomerWebAPI.AssemblyInfo.cs
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\obj\Debug\net6.0\CustomerWebAPI.csproj.CoreCompileInputs.cache
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\obj\Debug\net6.0\CustomerWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\obj\Debug\net6.0\CustomerWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\obj\Debug\net6.0\scopedcss\bundle\CustomerWebAPI.styles.css
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\obj\Debug\net6.0\CustomerWebAPI.csproj.CopyComplete
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\obj\Debug\net6.0\CustomerWebAPI.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\obj\Debug\net6.0\refint\CustomerWebAPI.dll
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\obj\Debug\net6.0\CustomerWebAPI.pdb
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\obj\Debug\net6.0\CustomerWebAPI.genruntimeconfig.cache
+C:\Programing\C#Practise\DemoMicroService\CustomerWebAPI\obj\Debug\net6.0\ref\CustomerWebAPI.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\appsettings.Development.json
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\appsettings.json
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\CustomerWebAPI.exe
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\CustomerWebAPI.deps.json
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\CustomerWebAPI.runtimeconfig.json
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\CustomerWebAPI.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\CustomerWebAPI.pdb
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Azure.Core.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Azure.Identity.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Humanizer.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\System.CodeDom.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\System.Memory.Data.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\System.Text.Json.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\obj\Debug\net6.0\CustomerWebAPI.csproj.AssemblyReference.cache
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\obj\Debug\net6.0\CustomerWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\obj\Debug\net6.0\CustomerWebAPI.AssemblyInfoInputs.cache
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\obj\Debug\net6.0\CustomerWebAPI.AssemblyInfo.cs
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\obj\Debug\net6.0\CustomerWebAPI.csproj.CoreCompileInputs.cache
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\obj\Debug\net6.0\CustomerWebAPI.MvcApplicationPartsAssemblyInfo.cs
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\obj\Debug\net6.0\CustomerWebAPI.MvcApplicationPartsAssemblyInfo.cache
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\obj\Debug\net6.0\scopedcss\bundle\CustomerWebAPI.styles.css
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\obj\Debug\net6.0\CustomerWebAPI.csproj.CopyComplete
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\obj\Debug\net6.0\CustomerWebAPI.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\obj\Debug\net6.0\refint\CustomerWebAPI.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\obj\Debug\net6.0\CustomerWebAPI.pdb
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\obj\Debug\net6.0\CustomerWebAPI.genruntimeconfig.cache
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\CustomerWebAPI\obj\Debug\net6.0\ref\CustomerWebAPI.dll

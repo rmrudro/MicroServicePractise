@@ -1,0 +1,63 @@
+C:\Programing\C#Practise\DemoMicroService\bin\Debug\CustomerWebAPI.deps.json
+C:\Programing\C#Practise\DemoMicroService\bin\Debug\CustomerWebAPI.runtimeconfig.json
+C:\Programing\C#Practise\DemoMicroService\bin\Debug\appsettings.Development.json
+C:\Programing\C#Practise\DemoMicroService\bin\Debug\appsettings.json
+C:\Programing\C#Practise\DemoMicroService\bin\Debug\CustomerWebAPI.exe
+C:\Programing\C#Practise\DemoMicroService\bin\Debug\CustomerWebAPI.dll
+C:\Programing\C#Practise\DemoMicroService\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Programing\C#Practise\DemoMicroService\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Programing\C#Practise\DemoMicroService\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Programing\C#Practise\DemoMicroService\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Programing\C#Practise\DemoMicroService\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Programing\C#Practise\DemoMicroService\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Programing\C#Practise\DemoMicroService\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Programing\C#Practise\DemoMicroService\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Programing\C#Practise\DemoMicroService\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Programing\C#Practise\DemoMicroService\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Programing\C#Practise\DemoMicroService\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Programing\C#Practise\DemoMicroService\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Programing\C#Practise\DemoMicroService\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Programing\C#Practise\DemoMicroService\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Programing\C#Practise\DemoMicroService\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Programing\C#Practise\DemoMicroService\bin\Debug\Microsoft.OpenApi.dll
+C:\Programing\C#Practise\DemoMicroService\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Programing\C#Practise\DemoMicroService\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Programing\C#Practise\DemoMicroService\bin\Debug\Microsoft.Identity.Client.dll
+C:\Programing\C#Practise\DemoMicroService\bin\Debug\CustomerWebAPI.pdb
+C:\Programing\C#Practise\DemoMicroService\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Programing\C#Practise\DemoMicroService\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Programing\C#Practise\DemoMicroService\obj\Debug\docker-compose.dcproj.CopyComplete
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\bin\Debug\CustomerWebAPI.deps.json
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\bin\Debug\CustomerWebAPI.runtimeconfig.json
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\bin\Debug\appsettings.Development.json
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\bin\Debug\appsettings.json
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\bin\Debug\CustomerWebAPI.exe
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\bin\Debug\CustomerWebAPI.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\bin\Debug\Microsoft.EntityFrameworkCore.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\bin\Debug\Microsoft.Extensions.Logging.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\bin\Debug\Microsoft.Extensions.Options.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\bin\Debug\Microsoft.OpenApi.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\bin\Debug\Microsoft.Extensions.Primitives.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\bin\Debug\Microsoft.Data.SqlClient.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\bin\Debug\Microsoft.Identity.Client.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\bin\Debug\CustomerWebAPI.pdb
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\obj\Debug\docker-compose.dcproj.CopyComplete
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\bin\Debug\ProductWebAPI.deps.json
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\bin\Debug\ProductWebAPI.runtimeconfig.json
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\bin\Debug\ProductWebAPI.exe
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\bin\Debug\ProductWebAPI.dll
+A:\C# Code Practice\MicroServicePractice\C#Practise\DemoMicroService\bin\Debug\ProductWebAPI.pdb
